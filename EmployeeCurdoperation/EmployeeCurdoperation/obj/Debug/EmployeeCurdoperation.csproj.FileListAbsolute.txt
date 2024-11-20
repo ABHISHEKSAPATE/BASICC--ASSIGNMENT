@@ -1,0 +1,7 @@
+C:\Users\abhis\source\repos\EmployeeCurdoperation\EmployeeCurdoperation\bin\Debug\EmployeeCurdoperation.exe.config
+C:\Users\abhis\source\repos\EmployeeCurdoperation\EmployeeCurdoperation\bin\Debug\EmployeeCurdoperation.exe
+C:\Users\abhis\source\repos\EmployeeCurdoperation\EmployeeCurdoperation\bin\Debug\EmployeeCurdoperation.pdb
+C:\Users\abhis\source\repos\EmployeeCurdoperation\EmployeeCurdoperation\obj\Debug\EmployeeCurdoperation.csproj.AssemblyReference.cache
+C:\Users\abhis\source\repos\EmployeeCurdoperation\EmployeeCurdoperation\obj\Debug\EmployeeCurdoperation.csproj.CoreCompileInputs.cache
+C:\Users\abhis\source\repos\EmployeeCurdoperation\EmployeeCurdoperation\obj\Debug\EmployeeCurdoperation.exe
+C:\Users\abhis\source\repos\EmployeeCurdoperation\EmployeeCurdoperation\obj\Debug\EmployeeCurdoperation.pdb

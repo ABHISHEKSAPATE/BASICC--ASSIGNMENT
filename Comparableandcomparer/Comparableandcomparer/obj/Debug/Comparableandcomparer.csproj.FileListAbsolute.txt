@@ -1,0 +1,7 @@
+C:\Users\abhis\source\repos\Comparableandcomparer\Comparableandcomparer\bin\Debug\Comparableandcomparer.exe.config
+C:\Users\abhis\source\repos\Comparableandcomparer\Comparableandcomparer\bin\Debug\Comparableandcomparer.exe
+C:\Users\abhis\source\repos\Comparableandcomparer\Comparableandcomparer\bin\Debug\Comparableandcomparer.pdb
+C:\Users\abhis\source\repos\Comparableandcomparer\Comparableandcomparer\obj\Debug\Comparableandcomparer.csproj.AssemblyReference.cache
+C:\Users\abhis\source\repos\Comparableandcomparer\Comparableandcomparer\obj\Debug\Comparableandcomparer.csproj.CoreCompileInputs.cache
+C:\Users\abhis\source\repos\Comparableandcomparer\Comparableandcomparer\obj\Debug\Comparableandcomparer.exe
+C:\Users\abhis\source\repos\Comparableandcomparer\Comparableandcomparer\obj\Debug\Comparableandcomparer.pdb
