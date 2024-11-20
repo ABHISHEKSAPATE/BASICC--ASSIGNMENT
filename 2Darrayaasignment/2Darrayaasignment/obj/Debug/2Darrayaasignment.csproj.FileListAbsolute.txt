@@ -1,0 +1,7 @@
+C:\Users\abhis\source\repos\2Darrayaasignment\2Darrayaasignment\bin\Debug\2Darrayaasignment.exe.config
+C:\Users\abhis\source\repos\2Darrayaasignment\2Darrayaasignment\bin\Debug\2Darrayaasignment.exe
+C:\Users\abhis\source\repos\2Darrayaasignment\2Darrayaasignment\bin\Debug\2Darrayaasignment.pdb
+C:\Users\abhis\source\repos\2Darrayaasignment\2Darrayaasignment\obj\Debug\2Darrayaasignment.csproj.AssemblyReference.cache
+C:\Users\abhis\source\repos\2Darrayaasignment\2Darrayaasignment\obj\Debug\2Darrayaasignment.csproj.CoreCompileInputs.cache
+C:\Users\abhis\source\repos\2Darrayaasignment\2Darrayaasignment\obj\Debug\2Darrayaasignment.exe
+C:\Users\abhis\source\repos\2Darrayaasignment\2Darrayaasignment\obj\Debug\2Darrayaasignment.pdb
